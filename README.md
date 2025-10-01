@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navYadav20&label=Profile%20views&color=0e75b6&style=flat" alt="navYadav20" /> </p>
 
-- 🔭 I’m Currently Learning **Pandas,Numpy,Matplotlib**
+- 🔭 I’m Currently Learning **LLMs, Agentic workflow, Springboot **
 
-- 💬 Ask me about **Java,DSA**
+- 💬 Ask me about **python, Java**
 
-- 📫 How to reach me **yadavnavneet821@gmail.com**
+- 📫 How to reach me **navyadav821@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
